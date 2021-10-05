@@ -17,8 +17,8 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸 !
 I'm an Open source enthusiast and i'm passionate about Building things that look and work like magic ✨.
 
 
-### 🤝🏻Connect with me 
-<hr>
+## 🤝🏻Connect with me 
+
 <a href="https://www.linkedin.com/in/rupesh-reddy-344090114/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rupesh | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/_Rupesh_"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Rupesh|Twitter" width="21px"/></a>
 <a href="https://www.instagram.com/_rupeshreddy_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rupesh | Instagram" width="21px"/></a>
