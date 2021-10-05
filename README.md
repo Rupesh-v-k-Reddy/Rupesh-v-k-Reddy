@@ -4,7 +4,7 @@
 <img width=”200" height=”200" src ="https://user-images.githubusercontent.com/91304263/136020563-cd789c25-02c0-451d-b700-e997dd4b2f31.png" alt="More serious problems than this missing banner">
 </p>
 
-<h3>Hi There i'm Rupesh 👋</h3>
+<h3>Hi There i'm Rupesh :wave:</h3>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Photographer 📸 !
@@ -12,7 +12,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸 !
 
 <br>
 
-I'm Open source enthusiast and i'm passionate about Building things that look and work like magic✨.
+I'm an Open source enthusiast and i'm passionate about Building things that look and work like magic✨.
 
 
 ### 🤝🏻Connect with me 
