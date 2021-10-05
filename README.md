@@ -8,9 +8,9 @@
   Hi there, <img width="30" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 </h2>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Full-Stack Web Developer 💻, Photographer 📸 !
-</h2>
+</h3>
 
 <br>
 
