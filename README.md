@@ -14,7 +14,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸 !
 
 <br>
 
-I'm an Open source enthusiast and i'm passionate about Building things that look and work like magic✨.
+I'm an Open source enthusiast and i'm passionate about Building things that look and work like magic ✨.
 
 
 ### 🤝🏻Connect with me 
