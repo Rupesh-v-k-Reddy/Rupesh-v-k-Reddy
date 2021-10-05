@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
+  Hi there, <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 </h3>
 
 <h2 align="center">
